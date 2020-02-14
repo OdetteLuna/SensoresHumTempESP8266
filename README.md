@@ -1,1 +1,0 @@
-# SensoresHumTempESP8266
